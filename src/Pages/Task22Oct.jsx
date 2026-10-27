@@ -1,11 +1,11 @@
-// import React, { useState } from "react";
+import React, { useState } from "react";
 // {
 //   /* Q1. Login Status (5 Marks) Create a React component that displays
 //         "Welcome User!" when the user is logged in and "Please Login" when the
 //         user is logged out. Use conditional rendering. */
 // }
 
-// const Task22Oct = () => {
+const Task22Oct = () => {
 //   const [islogin, setIsLogin] = useState(true);
 //   return <div>
 //     {islogin ? (
@@ -229,6 +229,6 @@
 //           ))}
 //     </div>
 //   );
-// };
+};
 
-// export default Task22Oct;
+export default Task22Oct;
